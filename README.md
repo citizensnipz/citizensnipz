@@ -5,7 +5,7 @@ Frameworks: React
 
 Languages: Solidity, TypeScript/JavaScript, HTML/CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=citizensnipz)](https://github.com/citizensnipz/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=citizensnipz&theme=onedark)](https://github.com/citizensnipz/github-readme-stats)
 <!--
 **citizensnipz/citizensnipz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
