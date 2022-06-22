@@ -1,15 +1,17 @@
 ### Hi there 👋
-Full Stack Web Developer
+##Full Stack Web Developer
 
-Frontend: React.js, Next.js
+**Frontend:** React.js, Next.js
 
-Backend: Node.js/Express, MongoDB
+**Backend:** Node.js/Express, MongoDB
 
-Web3: Ethers.js/Web3.js, Ethereum/EVM, ERC20, ERC721, UniSwapV2, MasterChef
+**Web3:** Ethers.js/Web3.js, Ethereum/EVM, ERC20, ERC721, UniSwapV2, MasterChef
 
-Libraries: Material UI
+**Libraries:** Material UI
 
-Languages: Solidity, TypeScript/JavaScript, HTML/CSS
+**Languages:** Solidity, TypeScript/JavaScript, HTML/CSS
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshkros/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=citizensnipz&theme=onedark)](https://github.com/citizensnipz/github-readme-stats)
 
