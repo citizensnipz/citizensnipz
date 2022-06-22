@@ -1,7 +1,13 @@
 ### Hi there 👋
 Full Stack Web Developer
 
-Frameworks: React
+Frontend: React.js, Next.js
+
+Backend: Node.js/Express, MongoDB
+
+Web3: Ethers.js/Web3.js, Ethereum/EVM, ERC20, ERC721, UniSwapV2, MasterChef
+
+Libraries: Material UI
 
 Languages: Solidity, TypeScript/JavaScript, HTML/CSS
 
