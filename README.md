@@ -12,6 +12,8 @@ Libraries: Material UI
 Languages: Solidity, TypeScript/JavaScript, HTML/CSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=citizensnipz&theme=onedark)](https://github.com/citizensnipz/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citizensnipz&layout=compact&theme=onedark)](https://github.com/citizensnipz/github-readme-stats)
 <!--
 **citizensnipz/citizensnipz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
