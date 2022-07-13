@@ -3,7 +3,7 @@
 
 **Frontend:** React.js, Next.js
 
-**Backend:** Node.js/Express, MongoDB, GraphQL
+**Backend:** Node.js/Express, MongoDB/Mongoose, GraphQL
 
 **Web3:** Ethers.js/Web3.js, Ethereum/EVM, ERC20, ERC721, UniSwapV2, MasterChef
 
