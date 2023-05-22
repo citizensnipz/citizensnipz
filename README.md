@@ -1,4 +1,11 @@
 ### Hi there 👋
+## UI/UX Designer
+**Design** Figma, Sketch
+
+**Graphics/2D** Adobe Suite, Gimp
+
+**3D/Motion graphics** Adobe After Effects, Autodesk Maya, Unity Editor
+
 ## Full Stack Web Developer
 
 **Frontend:** React.js, Next.js
@@ -9,7 +16,7 @@
 
 **Libraries:** Material UI
 
-**Languages:** Solidity, TypeScript/JavaScript, HTML/CSS
+**Languages:** Solidity, TypeScript/JavaScript, C#, Java, HTML/CSS
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshkros/)
 
