@@ -16,7 +16,7 @@
 
 **Libraries:** Material UI
 
-**Languages:** Solidity, TypeScript/JavaScript, C#, Java, HTML/CSS
+**Languages:** Solidity, TypeScript/JavaScript, Python, C#, Java, HTML/CSS
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshkros/)
 
