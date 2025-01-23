@@ -1,4 +1,8 @@
 ### Hi there 👋
+## Game Developer
+**Programming** C#, Visual Studio Code
+
+**Engine** Unity 6
 ## UI/UX Designer
 **Design** Figma, Sketch
 
