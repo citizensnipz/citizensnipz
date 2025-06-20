@@ -14,11 +14,11 @@
 
 **Frontend:** React.js, Next.js
 
-**Backend:** Node.js/Express, MongoDB/Mongoose, GraphQL
+**Backend:** Node.js/Express, MongoDB/Mongoose, GraphQL, PostgreSQL/Prisma
 
 **Web3:** Ethers.js/Web3.js, Ethereum/EVM, ERC20, ERC721, UniSwapV2, MasterChef
 
-**Libraries:** Material UI
+**Libraries:** Material UI, Shadcn UI
 
 **Languages:** Solidity, TypeScript/JavaScript, Python, C#, Java, HTML/CSS
 
