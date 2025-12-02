@@ -24,8 +24,7 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshkros/)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=citizensnipz&theme=radical)](https://github.com/citizensnipz/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=citizensnipz)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citizensnipz&layout=compact&theme=radical)](https://github.com/citizensnipz/github-readme-stats)
 <!--
