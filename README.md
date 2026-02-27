@@ -14,7 +14,7 @@
 
 **Frontend:** React.js, Next.js
 
-**Backend:** Node.js/Express, MongoDB/Mongoose, GraphQL, PostgreSQL/Prisma
+**Backend:** Node.js/Express, Go, MongoDB/Mongoose, GraphQL, PostgreSQL/Prisma
 
 **Web3:** Ethers.js/Web3.js, Ethereum/EVM, ERC20, ERC721, UniSwapV2, MasterChef
 
