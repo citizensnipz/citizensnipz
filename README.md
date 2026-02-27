@@ -1,28 +1,87 @@
-### Hi there 👋
-## Game Developer
-**Programming** C#, Visual Studio Code
+# Josh Kroslowitz
 
-**Engine** Unity 6
-## UI/UX Designer
-**Design** Figma, Sketch
+Full-stack developer, game developer, and technical designer building interactive systems, tools, and platforms across games, web, and Web3.
 
-**Graphics/2D** Adobe Suite, Gimp
+I specialize in architecting clean, scalable systems and turning complex ideas into working software.
 
-**3D/Motion graphics** Adobe After Effects, Autodesk Maya, Unity Editor
+---
 
-## Full Stack Web Developer
+## Game Development
 
-**Frontend:** React.js, Next.js
+**Engine:** Unity 6  
+**Programming:** C#  
+**Tools:** Visual Studio Code, Unity Editor  
 
-**Backend:** Node.js/Express, Go, MongoDB/Mongoose, GraphQL, PostgreSQL/Prisma
+- Gameplay systems, tools, and editor workflows  
+- UI architecture and event-driven design  
+- 3D integration, animation, and technical art pipelines  
 
-**Web3:** Ethers.js/Web3.js, Ethereum/EVM, ERC20, ERC721, UniSwapV2, MasterChef
+---
 
-**Libraries:** Material UI, Shadcn UI
+## Full Stack Development
 
-**Languages:** Solidity, TypeScript/JavaScript, Python, C#, Java, HTML/CSS
+**Frontend**  
+React.js, Next.js, TypeScript  
+Material UI, Shadcn UI  
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshkros/)
+**Backend**  
+Node.js, Express, Go  
+PostgreSQL, Prisma  
+MongoDB, Mongoose  
+GraphQL, REST APIs  
+
+**Architecture Focus**  
+- Scalable backend systems  
+- API design and data modeling  
+- Authentication and service integration  
+
+---
+
+## Web3 / Blockchain
+
+Solidity, Ethereum, EVM  
+Ethers.js, Web3.js  
+
+Experience working with:  
+- ERC-20 and ERC-721 contracts  
+- Smart contract integration  
+- On-chain data interaction  
+- DeFi protocol patterns (Uniswap V2, MasterChef)
+
+---
+
+## UI / UX and Design
+
+**Design Tools:** Figma, Sketch  
+
+**Graphics:** Adobe Photoshop, Illustrator, GIMP  
+
+**3D / Motion:**  
+Autodesk Maya  
+Adobe After Effects  
+
+Strong focus on usability, clarity, and functional interface design.
+
+---
+
+## Languages
+
+TypeScript / JavaScript  
+C#  
+Go  
+Solidity  
+Python  
+Java  
+HTML / CSS  
+
+---
+
+## Contact
+
+LinkedIn:  
+https://www.linkedin.com/in/joshkros/
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=citizensnipz)](https://github.com/anuraghazra/github-readme-stats)
 
