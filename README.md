@@ -1,102 +1,24 @@
-# Josh Kroslowitz
+# Hey, I'm Josh 👋
 
-Full-stack developer, game developer, and technical designer building interactive systems, tools, and platforms across games, web, and Web3.
+I'm a software engineer working across full-stack development, backend infrastructure, and spatial computing.
 
-I specialize in architecting clean, scalable systems and turning complex ideas into working software.
+Currently, I'm a Principal Engineer / Technical Lead at **XR Capsules**, where I work on systems for 3D capture, Gaussian-splat processing, GPU-based reconstruction, and interactive web visualization.
 
----
+### What I work with
 
-## Game Development
+- **Applications:** TypeScript, React, Next.js, C#, Unity
+- **Backend & infrastructure:** Python, FastAPI, PostgreSQL, Docker, cloud services
+- **Spatial computing:** Gaussian splatting, LiDAR, ARKit, 3D geometry, rendering
+- **Engineering workflows:** AI-assisted development, CI/CD, performance optimization, debugging and automation
 
-**Engine:** Unity 6  
-**Programming:** C#  
-**Tools:** Visual Studio Code, Unity Editor  
+### What interests me
 
-- Gameplay systems, tools, and editor workflows  
-- UI architecture and event-driven design  
-- 3D integration, animation, and technical art pipelines  
+I enjoy solving engineering problems that cross multiple systems, particularly where graphics, software infrastructure, and real-world data intersect.
 
----
+I use AI coding agents extensively in my development workflow, from investigating unfamiliar technologies to implementing, testing, and integrating production software.
 
-## Full Stack Development
+Much of my recent professional work lives in private repositories, but this profile includes selected projects and experiments from my software development journey.
 
-**Frontend**  
-React.js, Next.js, TypeScript  
-Material UI, Shadcn UI  
+### Connect
 
-**Backend**  
-Node.js, Express, Go  
-PostgreSQL, Prisma  
-MongoDB, Mongoose  
-GraphQL, REST APIs  
-
-**Architecture Focus**  
-- Scalable backend systems  
-- API design and data modeling  
-- Authentication and service integration  
-
----
-
-## Web3 / Blockchain
-
-Solidity, Ethereum, EVM  
-Ethers.js, Web3.js  
-
-Experience working with:  
-- ERC-20 and ERC-721 contracts  
-- Smart contract integration  
-- On-chain data interaction  
-- DeFi protocol patterns (Uniswap V2, MasterChef)
-
----
-
-## UI / UX and Design
-
-**Design Tools:** Figma, Sketch  
-
-**Graphics:** Adobe Photoshop, Illustrator, GIMP  
-
-**3D / Motion:**  
-Autodesk Maya  
-Adobe After Effects  
-
-Strong focus on usability, clarity, and functional interface design.
-
----
-
-## Languages
-
-TypeScript / JavaScript  
-C#  
-Go  
-Solidity  
-Python  
-Java  
-HTML / CSS  
-
----
-
-## Contact
-
-LinkedIn:  
-https://www.linkedin.com/in/joshkros/
-
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=citizensnipz)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citizensnipz&layout=compact&theme=radical)](https://github.com/citizensnipz/github-readme-stats)
-<!--
-**citizensnipz/citizensnipz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/joshkros) · [GitHub](https://github.com/citizensnipz)
