@@ -21,4 +21,4 @@ Much of my recent professional work lives in private repositories, but this prof
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/joshkros) · [GitHub](https://github.com/citizensnipz)
+[LinkedIn](https://www.linkedin.com/in/joshkros) · [GitHub](https://github.com/citizensnipz) · [Portfolio](https://joshkroz.com)
